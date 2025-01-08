@@ -1,2 +1,5 @@
 # Landing-Page
-Landing Page simples com html e css para site da biografia da hello kitty, minha inspiração foi a landing page da rafa bellerini!! :)
+Minha primeira Landing Page com html e css para um site da biografia da hello kitty, proejto bem simples.
+Minha inspiração foi a landing page da rafa bellerini!! :)
+Os gifs usados estão em anexo.
+Sou iniciante, aceito dicas e sugestões!!
